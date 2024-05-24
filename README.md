@@ -4,7 +4,6 @@
 <h3 align="center">A student of the University degree program in Analyst Programmer From Argentina📌</h3>
 
 - 📫 **pachecoagustin27@gmail.com**
-- 📬 **agus_ph_2@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
