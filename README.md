@@ -1,13 +1,66 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Agustín Pacheco</h1>
-<h3 align="center">A student of the University degree program in Analyst Programmer From Argentina📌</h3>
+<h1 align="center" style="color: #8758FF;">
+  👨🏻‍💻 Hi, I'm Agustin
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/agustin-ezequiel-pacheco-b0765023a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin ezequiel pacheco" height="30" width="40" /></a>
-<a href="https://instagram.com/pachecoagustin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pachecoagustin05" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil+;Welcome+to+my+profile">
 </p>
 
-<h3 align="left">Languages and Tools 👇:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h4 align="center">Connect with me:</h4>
+<p align="center">
+  <a href="https://linkedin.com/in/agustin-ezequiel-pacheco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustin ezequiel pacheco" height="30" width="40" /></a>
+  <a href="https://instagram.com/pachecoagustin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pachecoagustin05" height="30" width="40" /></a>
+</p>
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhmbGFub3JueGYzODByOGx4cGplbXEyMTZzMXN0YnU2b3dlemp6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7AmqyARFEc7S1Smtl/giphy.webp" width ="25"><b> Skills</b>
+
+### Currently working with:
+
+<p align="center">
+  <a href="https://getbootstrap.com/"><img src="icons/bootstrap.png" width="32" height="32"/></a>
+  <a href="https://git-scm.com/"><img src="icons/git.png" /></a>
+  <a href="https://github.com/"><img src="icons/github.png" /></a>
+  <a href="https://code.visualstudio.com/"><img src="icons/vscode.png" /></a>
+</p>
+
+### Currently working with the languages:
+
+<p align="center">
+  <a href="https://www.java.com/es/download/help/whatis_java.html"><img src="icons/java.png" width="32" height="32"/></a>
+  <a href="https://www.python.org/"><img src="icons/python.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="icons/javascript.png" /></a>
+</p>
+
+### Currently working with the frameworks:
+
+<p align="center">
+  <a href="https://www.djangoproject.com/"><img src="icons/django.png" width="32" height="32"/></a>
+</p>
+
+### Currently working with databases:
+
+<p align="center">
+  <a href="https://www.sqlite.org/index.html"><img src="icons/SQLite.png" width="32" height="32"/></a>
+</p>
+
+### Previously worked with:
+
+<p align="center">
+  <a href="https://www.php.net/"><img src="icons/php.png" /></a>
+  <a href="http://csharp.net/"><img src="icons/csharp.png" /></a>
+  <a href="https://es.wikipedia.org/wiki/Bash"><img src="icons/bash.png" width="32" height="32"/></a>
+  <a href="https://www.mysql.com/"><img src="icons/mysql.png" width="32" height="32"/></a>
+</p>
+
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguspacheco&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguspacheco&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center">
+  <img height="120" alt="Gracias por su visita-Thanks for visiting me" width="100%" src="images/marquee.svg" />
+</div>
+<br />
