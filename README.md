@@ -51,13 +51,13 @@
 <p align="center">
   <a href="https://www.php.net/"><img src="icons/php.png" /></a>
   <a href="http://csharp.net/"><img src="icons/csharp.png" /></a>
-  <a href="https://es.wikipedia.org/wiki/Bash"><img src="icons/bash.png" width="32" height="32"/></a>
   <a href="https://www.mysql.com/"><img src="icons/mysql.png" width="32" height="32"/></a>
 </p>
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguspacheco&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguspacheco&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=aguspacheco&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguspacheco&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 <div align="center">
